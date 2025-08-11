@@ -1,0 +1,5 @@
+Dataset,Correlation (r),P-value,Sample Size,Significance
+wikipedia,0.223,0.0002,280,***
+asset,0.133,0.052,214,
+onestop,0.116,0.0926,212,
+simpa,0.026,0.667,270,

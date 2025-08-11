@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krippendorff's Alpha Values Report</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: white;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 1px solid #bdc3c7;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+            font-weight: normal;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-weight: normal;
+            font-size: 1.1em;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: white;
+        }
+        th {
+            background-color: #f8f9fa;
+            color: #2c3e50;
+            padding: 12px;
+            text-align: center;
+            font-weight: bold;
+            border: 1px solid #dee2e6;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #dee2e6;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        .dimension-name {
+            text-align: left;
+            font-weight: normal;
+            color: #2c3e50;
+        }
+        .moderate { background-color: #e9ecef; }
+        .fair { background-color: #f1f3f4; }
+        .poor { background-color: #f8f9fa; }
+        .systematic { background-color: #e9ecef; font-style: italic; }
+        
+        .interpretation-scale {
+            background-color: #f8f9fa;
+            padding: 15px;
+            margin: 20px 0;
+            border: 1px solid #dee2e6;
+        }
+        .interpretation-scale ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        .interpretation-scale li {
+            margin: 5px 0;
+        }
+        
+        .key-findings {
+            background-color: #f8f9fa;
+            padding: 15px;
+            margin: 20px 0;
+            border: 1px solid #dee2e6;
+        }
+        .key-findings ol {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        
+        .negative-note {
+            font-style: italic;
+            color: #6c757d;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        
+        .summary-stats {
+            font-size: 0.95em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Krippendorff's Alpha Values by Dimension and Coverage</h1>
+
+        <h2>Table 1: Raw Alpha Values</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Evaluation Dimension</th>
+                    <th>Scale</th>
+                    <th>4 Experts</th>
+                    <th>3+ Experts</th>
+                    <th>2+ Experts</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="dimension-name">Image Simplicity</td>
+                    <td>0-15</td>
+                    <td>α = 0.486</td>
+                    <td>α = 0.374</td>
+                    <td>α = 0.282</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Image Quality</td>
+                    <td>0-15</td>
+                    <td>α = 0.013</td>
+                    <td>α = -0.007</td>
+                    <td>α = 0.006</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text Simplicity</td>
+                    <td>0-15</td>
+                    <td>α = 0.599</td>
+                    <td>α = 0.458</td>
+                    <td>α = 0.570</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text Quality</td>
+                    <td>0-15</td>
+                    <td>α = 0.086</td>
+                    <td>α = 0.228</td>
+                    <td>α = 0.223</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Ethics</td>
+                    <td>0-20</td>
+                    <td>α = 0.018</td>
+                    <td>α = 0.053</td>
+                    <td>α = -0.214</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text-Image Alignment</td>
+                    <td>0-20</td>
+                    <td>α = 0.379</td>
+                    <td>α = 0.267</td>
+                    <td>α = 0.115</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Table 2: Alpha Values with Interpretations</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dimension</th>
+                    <th>4 Experts</th>
+                    <th>3+ Experts</th>
+                    <th>2+ Experts</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="dimension-name">Image Simplicity</td>
+                    <td class="moderate">0.486 (Moderate)</td>
+                    <td class="fair">0.374 (Fair)</td>
+                    <td class="fair">0.282 (Fair)</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Image Quality</td>
+                    <td class="poor">0.013 (Poor)</td>
+                    <td class="systematic">-0.007 (Poor*)</td>
+                    <td class="poor">0.006 (Poor)</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text Simplicity</td>
+                    <td class="moderate">0.599 (Moderate)</td>
+                    <td class="moderate">0.458 (Moderate)</td>
+                    <td class="moderate">0.570 (Moderate)</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text Quality</td>
+                    <td class="poor">0.086 (Poor)</td>
+                    <td class="fair">0.228 (Fair)</td>
+                    <td class="fair">0.223 (Fair)</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Ethics</td>
+                    <td class="poor">0.018 (Poor)</td>
+                    <td class="poor">0.053 (Poor)</td>
+                    <td class="systematic">-0.214 (Poor*)</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">Text-Image Alignment</td>
+                    <td class="fair">0.379 (Fair)</td>
+                    <td class="fair">0.267 (Fair)</td>
+                    <td class="poor">0.115 (Poor)</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="negative-note">
+            *Negative values indicate systematic disagreement
+        </div>
+
+        <h2>Table 3: Summary Statistics by Coverage</h2>
+        <table class="summary-stats">
+            <thead>
+                <tr>
+                    <th>Coverage Category</th>
+                    <th>Sample Size</th>
+                    <th>Mean α</th>
+                    <th>Std Dev</th>
+                    <th>Range</th>
+                    <th>Valid Dimensions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="dimension-name">4 Experts</td>
+                    <td>19 images</td>
+                    <td>0.263</td>
+                    <td>±0.234</td>
+                    <td>0.013 to 0.599</td>
+                    <td>6/6</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">3+ Experts</td>
+                    <td>30 images</td>
+                    <td>0.229</td>
+                    <td>±0.164</td>
+                    <td>-0.007 to 0.458</td>
+                    <td>6/6</td>
+                </tr>
+                <tr>
+                    <td class="dimension-name">2+ Experts</td>
+                    <td>113 images</td>
+                    <td>0.163</td>
+                    <td>±0.242</td>
+                    <td>-0.214 to 0.570</td>
+                    <td>6/6</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="interpretation-scale">
+            <h2>Interpretation Scale</h2>
+            <ul>
+                <li><strong>α ≥ 0.80</strong>: Excellent reliability</li>
+                <li><strong>α ≥ 0.60</strong>: Good reliability</li>
+                <li><strong>α ≥ 0.40</strong>: Moderate reliability</li>
+                <li><strong>α ≥ 0.20</strong>: Fair reliability</li>
+                <li><strong>α &lt; 0.20</strong>: Poor reliability</li>
+                <li><strong>α &lt; 0.00</strong>: Systematic disagreement</li>
+            </ul>
+        </div>
+
+        <div class="key-findings">
+            <h2>Key Findings</h2>
+            <ol>
+                <li><strong>Highest reliability</strong>: Text Simplicity (α = 0.599 with 4 experts)</li>
+                <li><strong>Lowest reliability</strong>: Ethics with systematic disagreement (α = -0.214 with 2+ experts)</li>
+                <li><strong>Most consistent dimension</strong>: Text Simplicity (moderate reliability across all coverage levels)</li>
+                <li><strong>Most problematic dimension</strong>: Image Quality (poor reliability across all coverage levels)</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>

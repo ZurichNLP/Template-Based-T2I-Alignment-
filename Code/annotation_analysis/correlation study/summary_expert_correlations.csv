@@ -1,0 +1,5 @@
+Expert,Correlation (r),P-value,Sample Size,Significance
+Expert_A,0.251,0.0001,250,***
+Expert_M,0.152,0.0112,276,*
+Expert_L,0.146,0.0396,200,*
+Expert_K,0.133,0.0362,250,*

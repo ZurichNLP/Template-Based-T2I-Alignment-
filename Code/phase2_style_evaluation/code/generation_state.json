@@ -1,0 +1,3685 @@
+{
+  "completed_samples": [
+    "wikipedia_387",
+    "simpa_419",
+    "asset_307",
+    "simpa_219",
+    "asset_285",
+    "wikipedia_314",
+    "asset_125",
+    "simpa_146",
+    "onestop_489",
+    "wikipedia_267",
+    "simpa_277",
+    "wikipedia_160",
+    "onestop_302",
+    "simpa_007",
+    "wikipedia_251",
+    "onestop_155",
+    "simpa_152",
+    "wikipedia_099",
+    "onestop_400",
+    "simpa_364",
+    "wikipedia_447",
+    "onestop_221",
+    "simpa_157",
+    "onestop_198",
+    "simpa_158",
+    "onestop_449",
+    "simpa_386",
+    "wikipedia_383",
+    "onestop_090",
+    "simpa_176",
+    "wikipedia_051",
+    "simpa_470",
+    "onestop_343",
+    "wikipedia_319",
+    "onestop_458",
+    "simpa_332",
+    "wikipedia_411",
+    "onestop_378",
+    "simpa_496",
+    "onestop_029",
+    "simpa_139",
+    "wikipedia_262",
+    "onestop_269",
+    "simpa_471",
+    "wikipedia_197",
+    "onestop_167",
+    "simpa_308",
+    "onestop_364",
+    "simpa_389",
+    "wikipedia_009",
+    "onestop_164",
+    "simpa_402",
+    "wikipedia_296",
+    "onestop_382",
+    "simpa_025",
+    "wikipedia_104",
+    "simpa_384",
+    "onestop_226",
+    "wikipedia_205",
+    "simpa_260",
+    "onestop_183",
+    "wikipedia_276",
+    "onestop_087",
+    "simpa_211",
+    "wikipedia_424",
+    "onestop_041",
+    "simpa_203",
+    "wikipedia_131",
+    "onestop_222",
+    "simpa_138",
+    "wikipedia_107",
+    "onestop_441",
+    "simpa_012",
+    "simpa_367",
+    "wikipedia_155",
+    "onestop_080",
+    "simpa_255",
+    "wikipedia_446",
+    "onestop_338",
+    "simpa_446",
+    "asset_281",
+    "onestop_444",
+    "onestop_463",
+    "asset_424",
+    "simpa_028",
+    "onestop_097",
+    "asset_400",
+    "simpa_124",
+    "asset_009",
+    "onestop_001",
+    "simpa_029",
+    "asset_435",
+    "onestop_311",
+    "simpa_249",
+    "onestop_314",
+    "asset_402",
+    "onestop_266",
+    "simpa_239",
+    "asset_340",
+    "onestop_482",
+    "asset_051",
+    "simpa_473",
+    "simpa_107",
+    "asset_228",
+    "onestop_462",
+    "simpa_478",
+    "asset_128",
+    "onestop_273",
+    "simpa_424",
+    "asset_275",
+    "onestop_321",
+    "simpa_185",
+    "asset_483",
+    "onestop_336",
+    "simpa_398",
+    "asset_124",
+    "onestop_008",
+    "simpa_033",
+    "onestop_231",
+    "simpa_098",
+    "asset_242",
+    "onestop_058",
+    "asset_032",
+    "simpa_103",
+    "onestop_365",
+    "asset_069",
+    "simpa_209",
+    "onestop_386",
+    "simpa_169",
+    "asset_012",
+    "onestop_227",
+    "asset_335",
+    "simpa_262",
+    "onestop_418",
+    "simpa_479",
+    "asset_189",
+    "onestop_154",
+    "asset_441",
+    "simpa_014",
+    "onestop_415",
+    "asset_112",
+    "simpa_164",
+    "onestop_419",
+    "simpa_325",
+    "asset_248",
+    "onestop_137",
+    "asset_446",
+    "simpa_387",
+    "onestop_454",
+    "simpa_119",
+    "asset_321",
+    "onestop_363",
+    "simpa_373",
+    "asset_172",
+    "onestop_251",
+    "simpa_335",
+    "asset_305",
+    "onestop_297",
+    "simpa_140",
+    "asset_345",
+    "simpa_122",
+    "onestop_107",
+    "simpa_212",
+    "onestop_026",
+    "asset_195",
+    "onestop_092",
+    "simpa_331",
+    "asset_252",
+    "onestop_340",
+    "simpa_426",
+    "onestop_470",
+    "asset_036",
+    "simpa_270",
+    "asset_186",
+    "onestop_141",
+    "simpa_195",
+    "onestop_396",
+    "simpa_348",
+    "wikipedia_101",
+    "onestop_264",
+    "simpa_455",
+    "wikipedia_176",
+    "onestop_034",
+    "simpa_449",
+    "wikipedia_325",
+    "asset_324",
+    "simpa_422",
+    "wikipedia_161",
+    "asset_362",
+    "onestop_177",
+    "wikipedia_340",
+    "simpa_057",
+    "simpa_486",
+    "onestop_102",
+    "wikipedia_369",
+    "asset_207",
+    "simpa_170",
+    "onestop_425",
+    "asset_464",
+    "wikipedia_164",
+    "onestop_455",
+    "wikipedia_303",
+    "simpa_405",
+    "asset_070",
+    "simpa_043",
+    "onestop_367",
+    "onestop_235",
+    "asset_182",
+    "simpa_225",
+    "wikipedia_022",
+    "asset_253",
+    "onestop_385",
+    "wikipedia_334",
+    "simpa_361",
+    "asset_280",
+    "simpa_494",
+    "onestop_344",
+    "asset_467",
+    "onestop_372",
+    "simpa_372",
+    "asset_159",
+    "onestop_037",
+    "wikipedia_246",
+    "simpa_131",
+    "asset_015",
+    "simpa_395",
+    "wikipedia_300",
+    "onestop_084",
+    "wikipedia_196",
+    "asset_455",
+    "onestop_185",
+    "wikipedia_225",
+    "asset_492",
+    "onestop_494",
+    "wikipedia_021",
+    "asset_401",
+    "onestop_134",
+    "asset_146",
+    "onestop_265",
+    "wikipedia_137",
+    "asset_149",
+    "wikipedia_398",
+    "onestop_015",
+    "onestop_146",
+    "wikipedia_094",
+    "asset_437",
+    "onestop_423",
+    "asset_311",
+    "onestop_114",
+    "wikipedia_204",
+    "asset_201",
+    "wikipedia_312",
+    "asset_137",
+    "wikipedia_192",
+    "onestop_088",
+    "asset_314",
+    "asset_199",
+    "onestop_403",
+    "wikipedia_130",
+    "onestop_022",
+    "wikipedia_221",
+    "asset_225",
+    "onestop_485",
+    "wikipedia_413",
+    "onestop_420",
+    "asset_379",
+    "wikipedia_346",
+    "asset_373",
+    "onestop_187",
+    "wikipedia_318",
+    "asset_153",
+    "onestop_223",
+    "wikipedia_134",
+    "asset_018",
+    "wikipedia_181",
+    "asset_374",
+    "onestop_124",
+    "wikipedia_146",
+    "asset_451",
+    "onestop_460",
+    "wikipedia_041",
+    "onestop_224",
+    "wikipedia_381",
+    "onestop_101",
+    "wikipedia_361",
+    "asset_458",
+    "onestop_229",
+    "wikipedia_248",
+    "onestop_261",
+    "wikipedia_305",
+    "asset_268",
+    "onestop_091",
+    "wikipedia_187",
+    "asset_439",
+    "simpa_168",
+    "asset_331",
+    "wikipedia_040",
+    "simpa_280",
+    "asset_289",
+    "simpa_349",
+    "asset_074",
+    "wikipedia_115",
+    "wikipedia_020",
+    "simpa_327",
+    "asset_480",
+    "simpa_134",
+    "wikipedia_240",
+    "asset_071",
+    "simpa_431",
+    "wikipedia_061",
+    "asset_277",
+    "simpa_243",
+    "wikipedia_307",
+    "asset_042",
+    "simpa_288",
+    "wikipedia_434",
+    "simpa_056",
+    "wikipedia_279",
+    "simpa_492",
+    "wikipedia_184",
+    "asset_315",
+    "simpa_001",
+    "wikipedia_250",
+    "simpa_359",
+    "asset_142",
+    "simpa_135",
+    "wikipedia_071",
+    "asset_271",
+    "simpa_167",
+    "wikipedia_322",
+    "wikipedia_144",
+    "asset_394",
+    "simpa_269",
+    "wikipedia_440",
+    "wikipedia_138",
+    "asset_494",
+    "simpa_377",
+    "wikipedia_100",
+    "asset_301",
+    "simpa_173",
+    "wikipedia_239",
+    "asset_052",
+    "wikipedia_193",
+    "simpa_111",
+    "wikipedia_222",
+    "wikipedia_486",
+    "asset_283",
+    "wikipedia_265",
+    "simpa_083",
+    "wikipedia_395",
+    "asset_272",
+    "simpa_411",
+    "asset_133",
+    "wikipedia_356",
+    "simpa_150",
+    "wikipedia_284",
+    "wikipedia_338",
+    "asset_322",
+    "simpa_254",
+    "wikipedia_436",
+    "simpa_317",
+    "asset_088"
+  ],
+  "failed_samples": [
+    {
+      "sample_id": "wikipedia_127",
+      "results": [
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:57:08.732803"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:57:32.828665"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:57:57.014478"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:58:19.017111"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:58:42.474549"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:59:07.940514"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:59:33.148077"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T13:59:54.810412"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T14:00:17.967259"
+        },
+        {
+          "sample_id": "wikipedia_127",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T14:00:26.875301"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_111",
+      "results": [
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:19:41.275516"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T15:20:09.913675"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:20:15.768285"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:20:40.976796"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:20:58.772423"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:21:25.788184"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:21:48.463018"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:22:10.530197"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:22:32.643254"
+        },
+        {
+          "sample_id": "wikipedia_111",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:22:52.636564"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_210",
+      "results": [
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:31:55.379534"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:32:19.239318"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:32:44.331034"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T15:33:07.090841"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:33:14.400982"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:33:43.236139"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:34:06.846758"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:34:35.133627"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:34:59.479232"
+        },
+        {
+          "sample_id": "wikipedia_210",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T15:35:23.025706"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_234",
+      "results": [
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:30:06.019009"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T16:30:25.620489"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:30:32.138348"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:31:00.459848"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:31:24.783312"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:31:47.706039"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:32:08.556443"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:32:27.412605"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:32:48.923374"
+        },
+        {
+          "sample_id": "wikipedia_234",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T16:33:16.939132"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_466",
+      "results": [
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:02:29.307536"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:02:55.409688"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T17:03:16.438164"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:03:27.597235"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:03:52.334996"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:04:14.209602"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:04:37.719798"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:05:16.484633"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T17:05:43.010473"
+        },
+        {
+          "sample_id": "wikipedia_466",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T17:06:00.705472"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_230",
+      "results": [
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:50:37.899186"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T18:51:05.102460"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:51:11.421491"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:51:41.041065"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T18:52:03.190207"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:52:12.342857"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:52:43.430676"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:53:07.353942"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:53:34.005188"
+        },
+        {
+          "sample_id": "wikipedia_230",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:53:57.910072"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_161",
+      "results": [
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:54:26.511396"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:54:52.164921"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:55:12.016793"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:55:33.687810"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:55:53.667076"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:56:11.029120"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:56:45.025494"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T18:57:11.718305"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:57:18.624352"
+        },
+        {
+          "sample_id": "onestop_161",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T18:57:40.246281"
+        }
+      ]
+    },
+    {
+      "sample_id": "simpa_353",
+      "results": [
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:31:19.773619"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T19:31:40.394730"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:31:45.784612"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:32:05.717058"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:32:48.235988"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:33:09.889236"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:33:28.633121"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:33:50.308349"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:34:13.527536"
+        },
+        {
+          "sample_id": "simpa_353",
+          "dataset": "simpa",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T19:34:34.658489"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_129",
+      "results": [
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:54:30.983150"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T21:54:51.467894"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:54:58.428655"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-03T21:55:17.429269"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:55:27.300801"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:55:48.071468"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:56:07.934419"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:56:30.678375"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:56:50.919700"
+        },
+        {
+          "sample_id": "asset_129",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-03T21:57:11.449555"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_386",
+      "results": [
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:45:35.843157"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:45:57.007372"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:46:21.030529"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:46:42.402003"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:47:04.214105"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T00:47:24.974104"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:47:30.020682"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:47:49.730457"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:48:09.652573"
+        },
+        {
+          "sample_id": "asset_386",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T00:48:31.713655"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_235",
+      "results": [
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:42:10.264750"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:42:36.373269"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'This request has been blocked by our content filters.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T01:43:03.518036"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:43:20.514686"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:43:43.245414"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T01:44:05.342107"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:44:13.305209"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:44:33.549894"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:44:50.836671"
+        },
+        {
+          "sample_id": "asset_235",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:45:10.907038"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_466",
+      "results": [
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:57:23.054359"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:57:46.515244"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:58:08.222479"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:58:30.457441"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:58:54.193996"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:59:16.486718"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T01:59:38.863501"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T01:59:58.710212"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:00:04.076303"
+        },
+        {
+          "sample_id": "asset_466",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:00:10.950616"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_312",
+      "results": [
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:11:49.951539"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:12:10.446069"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:12:31.687481"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:12:50.971382"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:13:12.871593"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:13:19.214464"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:13:26.112422"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:13:47.906184"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:14:09.869077"
+        },
+        {
+          "sample_id": "asset_312",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:14:31.112485"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_430",
+      "results": [
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:27:56.851417"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:28:22.897704"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:28:27.758277"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:29:07.636384"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:29:28.573734"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:29:51.347036"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:30:09.427459"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:30:30.213760"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:30:34.819943"
+        },
+        {
+          "sample_id": "onestop_430",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:30:55.623903"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_309",
+      "results": [
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T02:58:27.837925"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:58:35.946825"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:58:59.418988"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:59:25.044833"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T02:59:47.613560"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:00:10.792234"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:00:26.161315"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:00:52.228136"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:01:19.015714"
+        },
+        {
+          "sample_id": "asset_309",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:01:46.381531"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_085",
+      "results": [
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:58:31.265547"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:58:53.172797"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:59:20.534979"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T03:59:51.302890"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T04:00:13.185784"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:00:21.601810"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:01:00.541843"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:01:22.402912"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T04:01:44.098008"
+        },
+        {
+          "sample_id": "wikipedia_085",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T04:01:49.725164"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_171",
+      "results": [
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:44:32.887582"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:44:54.417247"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:45:20.129992"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T04:45:48.773810"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:45:56.911460"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:46:26.717558"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:46:48.994170"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:47:12.352325"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:47:42.990735"
+        },
+        {
+          "sample_id": "wikipedia_171",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T04:48:06.140130"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_141",
+      "results": [
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:00:16.115315"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:00:42.013589"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:01:09.645935"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:01:39.846932"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T05:02:01.190946"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:02:06.210903"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:02:45.768487"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:03:11.799956"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:03:35.760997"
+        },
+        {
+          "sample_id": "wikipedia_141",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:04:04.498229"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_331",
+      "results": [
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:23:51.544988"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T05:24:13.447397"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:24:14.979959"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:24:32.191557"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:24:51.415570"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:25:24.645321"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:25:55.596844"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:26:18.816839"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:26:39.344112"
+        },
+        {
+          "sample_id": "onestop_331",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:27:00.146951"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_013",
+      "results": [
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:36:39.605314"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:37:12.221116"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:37:31.115303"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:37:51.671781"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:38:14.842997"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:38:35.652582"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:38:54.110134"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 500 - {'error': {'code': None, 'message': 'We were unable to process your prompt. Please try again later. You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID req_0ec90bdeb4c4238f7f36cedeb9d3b438 in your message.)', 'param': None, 'type': 'server_error'}}",
+          "timestamp": "2025-03-04T05:39:24.495401"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:40:31.216864"
+        },
+        {
+          "sample_id": "asset_013",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T05:40:51.852494"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_075",
+      "results": [
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:20:19.774984"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:20:46.050312"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:21:11.403595"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:21:35.260619"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:22:03.801380"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:22:31.448131"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:22:55.480206"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:23:17.746351"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:23:45.712320"
+        },
+        {
+          "sample_id": "wikipedia_075",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T06:24:12.778931"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_025",
+      "results": [
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:48:55.235854"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:49:16.626132"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:49:37.453028"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:49:58.267058"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:50:52.123276"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:51:14.345767"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:51:37.893803"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T06:51:58.840155"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:52:08.360751"
+        },
+        {
+          "sample_id": "asset_025",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T06:52:31.885935"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_298",
+      "results": [
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:08:54.888680"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:09:12.228515"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:09:34.174671"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:10:04.972445"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:10:48.825573"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:11:10.124154"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:11:31.948259"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:11:40.501910"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:12:02.152653"
+        },
+        {
+          "sample_id": "wikipedia_298",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:12:21.883047"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_215",
+      "results": [
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:29:31.390280"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:29:50.918144"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:29:58.758590"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:30:18.965234"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:30:54.390326"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:31:03.550977"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:31:45.631876"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:32:08.106695"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:32:30.010627"
+        },
+        {
+          "sample_id": "onestop_215",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:33:08.257877"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_052",
+      "results": [
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:41:41.483060"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:42:01.291113"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:42:23.781381"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:42:32.569080"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:42:53.432727"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:43:14.369365"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:43:37.964351"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:43:56.120164"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:44:19.187122"
+        },
+        {
+          "sample_id": "onestop_052",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:44:37.724913"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_500",
+      "results": [
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:56:08.778167"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:56:28.529558"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:56:32.151238"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:56:49.411827"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:57:08.906537"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:57:12.634438"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:57:33.177884"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:57:56.758666"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T07:58:16.322937"
+        },
+        {
+          "sample_id": "wikipedia_500",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T07:58:30.982734"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_382",
+      "results": [
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:10:56.626782"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:11:20.002896"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:11:40.021805"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:12:00.061072"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:12:18.826092"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-04T08:13:01.671143"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:13:08.443068"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:13:27.683158"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:13:49.024756"
+        },
+        {
+          "sample_id": "asset_382",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:14:07.769811"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_420",
+      "results": [
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:33:25.937303"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:33:47.915443"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:34:09.777541"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:34:30.670819"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:34:50.800600"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:35:09.109036"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:35:31.742857"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:35:51.734040"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-04T08:36:13.523053"
+        },
+        {
+          "sample_id": "onestop_420",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": false,
+          "error": "Connection error.",
+          "timestamp": "2025-03-04T08:36:34.618434"
+        }
+      ]
+    },
+    {
+      "sample_id": "onestop_254",
+      "results": [
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:51:27.852992"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:53:16.891296"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:53:44.915891"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:54:09.786207"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:54:29.963748"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 500 - {'error': {'code': None, 'message': 'We were unable to process your prompt. Please try again later. You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID req_59cfe39d6fdc1da77e7a6dc3bb64ca03 in your message.)', 'param': None, 'type': 'server_error'}}",
+          "timestamp": "2025-03-07T14:54:56.184332"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:56:20.213084"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:56:44.314094"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:57:09.767778"
+        },
+        {
+          "sample_id": "onestop_254",
+          "dataset": "onestopenglish",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T14:57:35.699059"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_442",
+      "results": [
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:30:11.192302"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:30:32.909756"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:30:53.750542"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:31:17.758521"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:31:47.018647"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:32:07.990159"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:32:31.984480"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:32:54.028412"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T15:33:20.623715"
+        },
+        {
+          "sample_id": "asset_442",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:33:27.038148"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_460",
+      "results": [
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T15:41:18.596041"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:41:24.221587"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T15:42:03.068814"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:42:08.530244"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:43:38.880240"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:44:22.703650"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:45:10.726086"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:45:42.153061"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:46:11.368271"
+        },
+        {
+          "sample_id": "asset_460",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T15:46:41.287535"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_085",
+      "results": [
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'This request has been blocked by our content filters.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:10:57.533105"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:11:15.220803"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:11:38.978641"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:12:00.440220"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:12:24.568861"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:12:42.585989"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:12:48.123828"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:13:23.717471"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:13:28.082713"
+        },
+        {
+          "sample_id": "asset_085",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:13:52.826592"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_496",
+      "results": [
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:46:28.834297"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:46:58.926136"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:47:27.580874"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:48:24.928892"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:48:28.852026"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:49:25.648271"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:49:50.810101"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T16:50:30.211814"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:50:37.355973"
+        },
+        {
+          "sample_id": "wikipedia_496",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T16:51:11.805043"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_485",
+      "results": [
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:26:42.558403"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:27:05.349452"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:27:23.451034"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:27:47.774516"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:28:09.281671"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:28:51.369916"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:29:15.233221"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:29:35.339365"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:29:58.420573"
+        },
+        {
+          "sample_id": "asset_485",
+          "dataset": "asset",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T18:30:27.023005"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_472",
+      "results": [
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:35:00.326708"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:35:26.493772"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:35:48.717916"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:36:13.086198"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:36:35.911624"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:37:00.271449"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:37:26.539073"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T18:37:50.320461"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:37:54.756813"
+        },
+        {
+          "sample_id": "asset_472",
+          "dataset": "asset",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T18:38:22.688446"
+        }
+      ]
+    },
+    {
+      "sample_id": "asset_164",
+      "results": [
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:00:05.892142"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:00:35.146350"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:01:00.459765"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "minimalistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:01:26.819365"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:01:53.672134"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:02:22.002198"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "geometric",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:02:44.034921"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:02:51.148274"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:03:21.294100"
+        },
+        {
+          "sample_id": "asset_164",
+          "dataset": "asset",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:03:44.934459"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_261",
+      "results": [
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:11:47.981333"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:11:57.660718"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:12:26.569761"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:12:43.817760"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:13:00.950929"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:13:07.452724"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:13:18.058899"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:13:43.581308"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T19:13:52.552543"
+        },
+        {
+          "sample_id": "wikipedia_261",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T19:14:18.911503"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_065",
+      "results": [
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:08:52.559791"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:09:20.501841"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:09:52.308110"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T21:10:19.921587"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:10:27.595998"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:10:58.309868"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:11:25.888387"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T21:11:51.278464"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:11:57.321669"
+        },
+        {
+          "sample_id": "wikipedia_065",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T21:12:29.958155"
+        }
+      ]
+    },
+    {
+      "sample_id": "wikipedia_259",
+      "results": [
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "cartoon",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:41:15.998137"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "realistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T21:41:42.175148"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "artistic",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:41:48.163793"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "minimalistic",
+          "success": false,
+          "error": "Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+          "timestamp": "2025-03-07T21:42:13.053907"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "digital art",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:42:21.716181"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "3d rendered",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:42:49.700259"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "geometric",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:43:14.897235"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "retro",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:43:39.297801"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "storybook",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:44:03.497955"
+        },
+        {
+          "sample_id": "wikipedia_259",
+          "dataset": "wikipedia",
+          "style": "technical",
+          "success": true,
+          "error": null,
+          "timestamp": "2025-03-07T21:44:32.197670"
+        }
+      ]
+    }
+  ],
+  "last_chunk_index": 400,
+  "timestamp": "2025-03-03T13:46:12.882938"
+}

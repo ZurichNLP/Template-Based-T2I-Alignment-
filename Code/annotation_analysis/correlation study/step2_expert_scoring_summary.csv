@@ -1,0 +1,5 @@
+expert,count,mean,median,std,min,max
+Expert_A,250,3.02,1.0,3.896,0,17
+Expert_K,250,6.416,7.0,3.706,0,14
+Expert_L,200,3.915,3.0,3.534,0,16
+Expert_M,276,8.033,8.0,1.957,2,13

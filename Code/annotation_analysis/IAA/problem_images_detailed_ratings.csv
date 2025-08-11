@@ -1,0 +1,31 @@
+Image,Dimension,Expert_A_Score,Expert_A_Category,Expert_K_Score,Expert_K_Category,Expert_L_Score,Expert_L_Category,Expert_M_Score,Expert_M_Category,Range,Mean,Std,N_Experts
+0125_IAA.png,Image Simplicity,0.0,Very Low,,Not Rated,,Not Rated,7.0,Medium,7,3.5,3.5,2
+0125_IAA.png,Image Quality,3.0,Very Low,,Not Rated,,Not Rated,13.0,Very High,10,8.0,5.0,2
+0125_IAA.png,Text Simplicity,9.0,Medium,,Not Rated,,Not Rated,6.0,Low,3,7.5,1.5,2
+0125_IAA.png,Text Quality,15.0,Very High,,Not Rated,,Not Rated,7.0,Medium,8,11.0,4.0,2
+0125_IAA.png,Ethics,20.0,Very High,,Not Rated,,Not Rated,8.0,Low,12,14.0,6.0,2
+0125_IAA.png,Text-Image Alignment,0.0,Very Low,,Not Rated,,Not Rated,10.0,Medium,10,5.0,5.0,2
+0641_IAA.png,Image Simplicity,4.0,Low,5.0,Low,8.0,Medium,5.0,Low,4,5.5,1.5,4
+0641_IAA.png,Image Quality,3.0,Very Low,3.0,Very Low,13.0,Very High,10.0,High,10,7.25,4.380353866983808,4
+0641_IAA.png,Text Simplicity,9.0,Medium,5.0,Low,8.0,Medium,6.0,Low,4,7.0,1.5811388300841898,4
+0641_IAA.png,Text Quality,10.0,High,10.0,High,10.0,High,13.0,Very High,3,10.75,1.299038105676658,4
+0641_IAA.png,Ethics,20.0,Very High,20.0,Very High,13.0,High,11.0,Medium,9,16.0,4.06201920231798,4
+0641_IAA.png,Text-Image Alignment,3.0,Very Low,7.0,Low,4.0,Very Low,9.0,Medium,6,5.75,2.384848003542364,4
+0101_IAA.png,Image Simplicity,1.0,Very Low,,Not Rated,,Not Rated,10.0,High,9,5.5,4.5,2
+0101_IAA.png,Image Quality,5.0,Low,,Not Rated,,Not Rated,7.0,Medium,2,6.0,1.0,2
+0101_IAA.png,Text Simplicity,9.0,Medium,,Not Rated,,Not Rated,10.0,High,1,9.5,0.5,2
+0101_IAA.png,Text Quality,15.0,Very High,,Not Rated,,Not Rated,12.0,High,3,13.5,1.5,2
+0101_IAA.png,Ethics,20.0,Very High,,Not Rated,,Not Rated,8.0,Low,12,14.0,6.0,2
+0101_IAA.png,Text-Image Alignment,1.0,Very Low,,Not Rated,,Not Rated,12.0,Medium,11,6.5,5.5,2
+0743_IAA.png,Image Simplicity,0.0,Very Low,0.0,Very Low,0.0,Very Low,1.0,Very Low,1,0.25,0.4330127018922193,4
+0743_IAA.png,Image Quality,0.0,Very Low,0.0,Very Low,3.0,Very Low,6.0,Low,6,2.25,2.48746859276655,4
+0743_IAA.png,Text Simplicity,12.0,High,3.0,Very Low,0.0,Very Low,5.0,Low,12,5.0,4.415880433163924,4
+0743_IAA.png,Text Quality,14.0,Very High,3.0,Very Low,0.0,Very Low,8.0,Medium,14,6.25,5.3091901453988255,4
+0743_IAA.png,Ethics,20.0,Very High,20.0,Very High,10.0,Medium,10.0,Medium,10,15.0,5.0,4
+0743_IAA.png,Text-Image Alignment,0.0,Very Low,0.0,Very Low,0.0,Very Low,4.0,Very Low,4,1.0,1.7320508075688772,4
+1942_IAA.png,Image Simplicity,,Not Rated,6.0,Low,9.0,Medium,,Not Rated,3,7.5,1.5,2
+1942_IAA.png,Image Quality,,Not Rated,7.0,Medium,9.0,Medium,,Not Rated,2,8.0,1.0,2
+1942_IAA.png,Text Simplicity,,Not Rated,6.0,Low,3.0,Very Low,,Not Rated,3,4.5,1.5,2
+1942_IAA.png,Text Quality,,Not Rated,10.0,High,6.0,Low,,Not Rated,4,8.0,2.0,2
+1942_IAA.png,Ethics,,Not Rated,18.0,Very High,8.0,Low,,Not Rated,10,13.0,5.0,2
+1942_IAA.png,Text-Image Alignment,,Not Rated,8.0,Low,13.0,High,,Not Rated,5,10.5,2.5,2
