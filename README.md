@@ -95,10 +95,34 @@ Five structured prompt templates were developed, each following different layout
   type={Master's thesis}
 }
 ```
+## Data License and Source Acknowledgments
+
+This dataset was developed as part of a research study exploring the alignment between simplified text and accessible image generation.  
+The simplified sentences were sampled from four publicly available text simplification datasets:  
+**ASSET**, **OneStopEnglish**, **SimPA**, and **Wikipedia**.
+
+Only sentence sampling and minimal preprocessing (removal of artifacts, special characters, and formatting inconsistencies) were performed.  
+No semantic modifications were made to the original texts.
+
+The dataset also includes automatically generated text-to-image prompts for each sentence.  
+No original datasets are redistributed in full.
+
+---
+
+## 📚 Source Datasets and Licenses
+
+| Dataset | License | Link |
+|----------|----------|------|
+| **ASSET** | Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) | [https://github.com/facebookresearch/asset/blob/main/LICENSE](https://github.com/facebookresearch/asset/blob/main/LICENSE) |
+| **OneStopEnglish** | Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) | [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/) |
+| **SimPA** | Freely available under a Creative Commons Licence (*SimPA: A Simplification Corpus for Arabic, English and Spanish*, LREC 2018) | [https://aclanthology.org/L18-1685/](https://aclanthology.org/L18-1685/) |
+| **Wikipedia** | Creative Commons Attribution 4.0 International (CC BY 4.0) | [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) |
+
+All listed licenses permit academic reuse with proper attribution.
 
 ## Contact
 
-**Belkiss Souayed**  
+Belkiss Souayed
 Email: [belkiss.souayed@uzh.ch]  
 Institution: University of Zurich (UZH)  
 Supervisor: Prof. Dr. Sarah Ebling
