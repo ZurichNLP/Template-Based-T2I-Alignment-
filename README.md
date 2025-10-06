@@ -125,8 +125,8 @@ All listed licenses permit academic reuse with proper attribution.
 Belkiss Souayed
 Email: [belkiss.souayed@uzh.ch]  
 Institution: University of Zurich (UZH)  
-Supervisor: Prof. Dr. Sarah Ebling
-Examiner: Dr. Yingqiang Gao
+Supervisor: Dr. Yingqiang Gao
+Examiner: Prof. Dr. Sarah Ebling
 ---
 
 *This research was conducted as part of a Master's thesis at the University of Zurich (UZH). For questions about data access or collaboration, please contact the author.*
