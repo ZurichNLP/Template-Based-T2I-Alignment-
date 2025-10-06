@@ -163,6 +163,3 @@ Institution: University of Zurich (UZH)
 ---
 
 *For questions about the data, methodology, or collaboration opportunities, please contact the author.*
-
-
-*This research was conducted as part of a Master's thesis at the University of Zurich (UZH). For questions about data access or collaboration, please contact the author.*
