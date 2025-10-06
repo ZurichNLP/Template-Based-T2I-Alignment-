@@ -117,10 +117,10 @@ Five structured prompt templates were developed, each following different layout
   title={Template-Based Text-to-Image Alignment for Language Accessibility: A
 Study on Visualizing Text Simplifications},
   author={Souayed, Belkiss and Gao, Yingqiang and Ebling, Sarah},
-  booktitle={Proceedings of the TSAR 2025 Workshop on Text Simplification, Accessibility, and Readability},
+  booktitle={},
   year={2025},
-  organization={Association for Computational Linguistics},
-  address={Bangkok, Thailand},
+  organization={},
+  address={},
   note={To appear},
   url={https://aclanthology.org/2025.tsar-1.XX} % to update once published
 }
