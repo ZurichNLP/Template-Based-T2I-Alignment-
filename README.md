@@ -154,11 +154,12 @@ All listed licenses permit academic reuse with proper attribution.
 ## Contact
 
 **Belkiss Souayed**  
-Email: [belkiss.souayed@uzh.ch](mailto:belkiss.souayed@uzh.ch)  
+Email: belkiss.souayed@uzh.ch  
 Institution: University of Zurich (UZH)  
 
-**Supervisor:** Dr. [Yingqiang Gao](mailto:yingqiang.gao@uzh.ch)  
-**Examiner:** Prof. Dr. [Sarah Ebling](mailto:ebling@cl.uzh.ch)
+**Supervisor:** Dr. Yingqiang Gao — yingqiang.gao@uzh.ch  
+**Examiner:** Prof. Dr. Sarah Ebling — ebling@cl.uzh.ch
+
 
 ---
 
