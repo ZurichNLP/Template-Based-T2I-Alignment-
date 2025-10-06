@@ -112,7 +112,7 @@ Five structured prompt templates were developed, each following different layout
   type={Master's thesis}
 }
 ```
-
+```bibtex
 @inproceedings{souayed2025tsar,
   title={Template-Based Text-to-Image Alignment for Language Accessibility: A
 Study on Visualizing Text Simplifications},
@@ -124,7 +124,7 @@ Study on Visualizing Text Simplifications},
   note={To appear},
   url={https://aclanthology.org/2025.tsar-1.XX} % to update once published
 }
-
+```
 ## Data License and Source Acknowledgments
 
 This dataset was developed as part of a research study exploring the alignment between simplified text and accessible image generation.  
