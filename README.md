@@ -27,13 +27,13 @@ Belkiss_ThesisFiles/
 ```
 
 ## Data Availability
-
 ### Annotation Data and Images
-Due to file size limitations, the annotation data and generated images are hosted on **SWITCHdrive**:
+Due to file size limitations, the annotation data and generated images are hosted on **SwissUbase**:
 
-- **Annotation Data**: Contains individual annotator files.
-- **Generated Images**: Complete dataset of images used in the study
-- **Access**: [SWITCHdrive link will be provided soon]
+- **Annotation Data**: Contains individual annotator files.  
+- **Generated Images**: Complete dataset of the generated images used in the study.  
+- **Access**: [SwissUbase Dataset Link](https://www.swissubase.ch/en/share/eCTXtvik5Lr96iLcAk0nfnfSheu-QlACjK6TT-jZ6Q8c_ZOYu3VZfDaVF1AW9jsRRL8)
+
 
 
 ## Research Overview
