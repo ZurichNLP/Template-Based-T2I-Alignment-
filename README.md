@@ -116,7 +116,7 @@ Five structured prompt templates were developed, each following different layout
 @inproceedings{souayed2025tsar,
   title={Template-Based Text-to-Image Alignment for Language Accessibility: A
 Study on Visualizing Text Simplifications},
-  author={Souayed, Belkiss and Gao, Yingqiang and Ebling, Sarah},
+  author={Souayed, Belkiss and Ebling, Sarah and Gao, Yingqiang},
   booktitle={},
   year={2025},
   organization={},
